@@ -12,3 +12,5 @@
 ```js
 const x = 10;
 ```
+
+![](https://i.imgur.com/ttYyv8O.png)
