@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "92950d90804d858d",
+    "type": "split",
+    "children": [
+      {
+        "id": "511d5eefdbf72f49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b97be775b14d1c2a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4849463978f40226",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec277742a04dbda5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "461a41faa6cab185",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efa0b95adbbcc179",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d71e7b8394279ac",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d3c94ab762089862",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a9f64e15dec7348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c815eb3fda318e56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "faa4a9139e34eb35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00cf0d23b1c4a7e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9bb4ce3ea1583ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b97be775b14d1c2a",
+  "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "HTML/Positioning CSS.md",
+    "Excalidraw/Drawing 2022-11-01 16.37.10.excalidraw.md",
+    "Excalidraw/Drawing 2022-11-01 16.35.36.excalidraw.md"
+  ]
+}
